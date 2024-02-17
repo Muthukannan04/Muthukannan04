@@ -23,8 +23,6 @@
 <a href="https://www.codechef.com/users/Muthukannan04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Muthukannan04" height="30" width="40" /></a>
 </p>
 
-
-
 ![](https://github-readme-stats.vercel.app/api?username=Muthukannan04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muthukannan04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muthukannan04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
